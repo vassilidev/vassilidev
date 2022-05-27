@@ -14,11 +14,9 @@ I'm a self-taught passionate Fullstack developer from Paris 🇫🇷
 
 - 💬 Ask me about anything [here](https://github.com/vassilidev/vassilidev/issues)
 
-<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=vassilidev&count_private=true&hide=stars&show_icons=true&theme=algolia" />
+[![Vassili Joffroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=vassilidev&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vassilidev&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-<img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=vassilidev&layout=compact&theme=algolia"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vassilidev&theme=algolia&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 - [vassili-joffroy.fr](https://vassili-joffroy.fr)
