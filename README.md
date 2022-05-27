@@ -1,4 +1,4 @@
-<p align="center"><img src="images/logo.png" alt="Logo"></p>
+<p align="center"><img width="400" src="images/logo.png" alt="Logo"></p>
 
 I'm a self-taught passionate Fullstack developer from Paris 🇫🇷
 
