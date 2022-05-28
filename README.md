@@ -6,9 +6,10 @@
 </div>  
 
 ### <div align="center">I'm a self-taught passionate Fullstack developer from Paris 🇫🇷</div>
-
 <br>
+
 - 💻 CEO / IT Consulting [Vassili JOFFROY](https://vassili-joffroy.fr/)
+
 
 - 💼 FullStack developer at [CommoPrices](https://commoprices.com/)
 
@@ -18,6 +19,7 @@
 
 - ❤️ I love coding with Laravel every days
 
+<div align="center">
 <a href="https://github.com/vassilidev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -34,32 +36,41 @@
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
 " style="margin-bottom: 5px;" />
 </a>
-<br/>  
+</div>
+
 
 <img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=vassilidevnet&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vassilidevnet&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
 
+<br>
+
 ## 📊 Github Stats
 
+<p align="center">
 <!-- Dark Mode -->
 <img width="49.7%" src="http://github-readme-stats-sortedcord.vercel.app/api?username=vassilidev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
 <img width="49.7%" src="http://github-readme-streak-stats.herokuapp.com?user=vassilidev&theme=dracula&hide_border=true"/>
 <!-- Light Mode -->
 <!-- <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=dracula&show_icons=true&theme=light&hide_border=true&include_all_commits=true&count_private=true"  />
 <img width="49.7%" src="http://github-readme-streak-stats.herokuapp.com?user=dracula&theme=light&hide_border=true" /> -->
+</p>
 
 ## 📚 Language Usage
 
+<p align="center">
 <!-- Dark Mode -->
 <img src="https://github-readme-stats-sortedcord.vercel.app/api/top-langs/?username=vassilidev&layout=compact&theme=dracula&hide=html&langs_count=8&hide_border=true" width="100%"/> 
 <!-- Light Mode -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vassilidev&layout=compact&theme=light&hide=html&langs_count=8&hide_border=true#gh-light-mode-only" width="100%"/> -->
+</p>
 
 ## 📊 Github Contribution Graph
 
+<p align="center">
 <!-- Dark Mode -->
 <img src="https://activity-graph.herokuapp.com/graph?username=vassilidev&theme=dracula" width="100%"/>
 <!-- Light Mode
 <img src="https://activity-graph.herokuapp.com/graph?username=vassilidev&theme=minimal" width="100%"/> -->
+</p>
 
 ## 🏆 Trophies
 
