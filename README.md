@@ -26,7 +26,7 @@
 - ‍🎓 I'm a self-taught passionate Full-Stack developer
 - 🏠 I live in Paris, France 🇫🇷
 - 💻 CEO / IT Consulting [Vassili JOFFROY](https://vassili-joffroy.fr/)
-- 💼 FullStack developer at [Kang](https://kang.fr/)
+- 💼 FullStack developer at [Vassili](https://linktr.ee/vassilidev)
 - 📈 Built C3APP, F3C and more !
 - ❤️ I love coding with Laravel every days & drink coffee ☕
 
