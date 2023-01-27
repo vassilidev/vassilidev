@@ -50,7 +50,7 @@
 ## 📊 Github Contribution Graph
 
    <p align="center">  
-      <img src="https://activity-graph.herokuapp.com/graph?username=vassilidev&theme=dracula" width="100%"/>  
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vassilidev&theme=dracula" width="100%"/>  
    </p>
 
 ## 🏆 Trophies
