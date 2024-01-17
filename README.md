@@ -24,9 +24,9 @@
 ## 🙋 About me
 
 - ‍🎓 I'm a self-taught passionate Full-Stack developer
-- 🏠 I live in Paris, France 🇫🇷
+- 🏠 I live in Lyon, France 🇫🇷
 - 💻 CEO / IT Consulting [Vassili JOFFROY](https://linktr.ee/vassilidev)
-- 💼 FullStack developer at [ANJ, The National Gambling Authority]([https://linktr.ee/vassilidev](https://anj.fr/english))
+- 💼 FullStack developer at [Rubrash]([https://rubrash.com))
 - 📈 Built Larastub, Stubbify, LaraPerm, C3APP, F3C and more !
 - ❤️ I love coding with Laravel every days & drink coffee ☕
 
