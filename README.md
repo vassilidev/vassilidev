@@ -2,21 +2,12 @@
    <img alt="banner" src="./images/banner.gif" align="center" style="width: 100%" />
    <br><br>
    <div align='center'>
-      <a href="https://github.com/vassilidev" target="_blank">  
-      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />  
-      </a>  
-      <a href="https://linkedin.com/in/vassili-joffroy-5345551b7" target="_blank">  
+      <a href="https://linkedin.com/in/vassili-joffroy" target="_blank">  
       <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />  
       </a>  
       <a href="https://instagram.com/vassili.joffroy" target="_blank">  
       <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />  
       </a> 
-      <a href="https://paypal.me/VassiliJoffroy" target="_blank">
-      <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt=paypal">
-      </a>  
-      <a href="https://www.buymeacoffee.com/vassilidev" target="_blank">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt=buymeacoffee">
-      </a>  
    </div>
 
    ----
@@ -24,7 +15,7 @@
 ## 🙋 About me
 
 - ‍🎓 I'm a self-taught passionate Full-Stack developer
-- 🏠 I live in Lyon, France 🇫🇷
+- 🏠 I live in Paris, France 🇫🇷
 - 💻 CEO / IT Consulting [Vassili JOFFROY](https://linktr.ee/vassilidev)
 - 💼 FullStack developer at [Rubrash]([https://rubrash.com])
 - 📈 Built Larastub, Stubbify, LaraPerm, C3APP, F3C and more !
