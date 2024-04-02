@@ -17,7 +17,7 @@
 - ‍🎓 I'm a self-taught passionate Full-Stack developer
 - 🏠 I live in Paris, France 🇫🇷
 - 💻 CEO / IT Consulting [Vassili JOFFROY](https://linktr.ee/vassilidev)
-- 💼 FullStack developer at [Rubrash]([https://rubrash.com])
+- 💼 CEO [The Forge Agency]([https://the-forge.agency])
 - 📈 Built Larastub, Stubbify, LaraPerm, C3APP, F3C and more !
 - ❤️ I love coding with Laravel every days & drink coffee ☕
 
