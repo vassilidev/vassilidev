@@ -19,10 +19,53 @@
 - 🚀 Building at **Station F**, Paris 🇫🇷
 - 🎓 Self-taught full-stack developer, coding with Laravel every day, fueled by coffee ☕
 
+## 🌟 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/vassilidev/TermF"><img src="https://raw.githubusercontent.com/vassilidev/TermF/main/site/icon.svg" width="64" alt="" /></a>
+      </p>
+      <h3 align="center"><a href="https://github.com/vassilidev/TermF">TermF</a></h3>
+      <p align="center"><b>Talk only to the CTO.</b></p>
+      <p>
+        A free desktop app for Claude Code. You describe the work to one agent, the CTO; a team of 29 AI agents plans it, codes it, tests it and reviews it, then brings you a pull request to approve. All your Claude Code, Codex and Gemini sessions in one window, with Git, CI/CD, a vault and encrypted sync around them.
+      </p>
+      <a href="https://github.com/vassilidev/TermF">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vassilidev/TermF/main/site/shots/home-dark.webp" />
+          <img src="https://raw.githubusercontent.com/vassilidev/TermF/main/site/shots/home-light.webp" width="100%" alt="TermF's project Home: the agents at work, the runs and tickets, and the bar to ask the CTO" />
+        </picture>
+      </a>
+      <p align="center">
+        <sub>Rust · Tauri · Svelte · macOS, Windows, Linux · local-first, no account, no telemetry</sub><br />
+        <a href="https://vassilidev.github.io/TermF/"><b>Website</b></a> · <a href="https://vassilidev.github.io/TermF/download.html"><b>Download</b></a> · <a href="https://github.com/vassilidev/TermF">Source</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/vassilidev/evict"><img src="https://raw.githubusercontent.com/vassilidev/evict/main/docs/icon.png" width="64" alt="" /></a>
+      </p>
+      <h3 align="center"><a href="https://github.com/vassilidev/evict">Evict</a></h3>
+      <p align="center"><b>The bouncer for your disk.</b></p>
+      <p>
+        A free, open-source disk space analyzer. It scans the whole disk in seconds (5.7 million files in about 20 seconds on a Mac) and draws it as a treemap, then finds large files, duplicates and developer caches like <code>node_modules</code> and cleans them up safely, through the Trash.
+      </p>
+      <a href="https://github.com/vassilidev/evict">
+        <img src="https://raw.githubusercontent.com/vassilidev/evict/main/docs/screenshot.png" width="100%" alt="Evict's map: every folder of the disk as a box sized by the space it takes, colored by kind of file" />
+      </a>
+      <p align="center">
+        <sub>C · SwiftUI · GTK · WebView2 · native on macOS, Windows, Linux · no account, no telemetry</sub><br />
+        <a href="https://vassilidev.github.io/evict/"><b>Website</b></a> · <a href="https://vassilidev.github.io/evict/download.html"><b>Download</b></a> · <a href="https://github.com/vassilidev/evict">Source</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## 🔨 What I'm building
 
 - 🗓️ **[#TFA52](https://tfa52.app)**: 52 apps in 52 weeks, picked by the community. [WhoseTurn](https://github.com/The-Forge-Agency/WhoseTurn), [GiftSwipe](https://github.com/The-Forge-Agency/GiftSwipe), [ColorPalette4Me](https://github.com/The-Forge-Agency/ColorPalette4Me), [Jsonaut](https://github.com/The-Forge-Agency/JsonautApp), [Bannr](https://github.com/The-Forge-Agency/BannrApp), [imgk](https://github.com/The-Forge-Agency/ImgkApp), [LeMur](https://github.com/The-Forge-Agency/LeMur), [Tsecret](https://github.com/The-Forge-Agency/TSecret) and more
-- 🖥️ **[TermF](https://github.com/vassilidev/TermF)**: a local-first cockpit for AI coding agents, built with Rust and Tauri
 - 🧠 **[Mnemo](https://github.com/The-Forge-Agency/Mnemo)**: persistent, cross-machine memory for your AI coding assistant
 - 🔗 **[UnLink](https://github.com/The-Forge-Agency/unlink)**: a Chrome extension that clears LinkedIn prospecting spam in one click
 
